@@ -8,8 +8,8 @@ For developers and security researchers: read 26.3-vulnerability.md for potentia
 How to Use
 1. Download
 
-git clone https://github.com/tr4m0ryp/tr4mpass.git
-cd tr4mpass
+git clone https://github.com/oliverso17/im49pass.git
+cd im49pass
 
 2. Run
 
